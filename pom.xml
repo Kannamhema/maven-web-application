@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>snapshot-hema</name>
-	      <url>http://54.234.138.130:8081/repository/snapshot-hema/</url>
+	      <name>snapshot_hema</name>
+	      <url>http://54.234.138.130:8081/repository/snapshot_hema/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>release-hema</name>
-	      <url>http://54.234.138.130:8081/repository/release-hema/</url>
+	      <name>release_hema</name>
+	      <url>http://54.234.138.130:8081/repository/release_hema/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
